@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory Configuration within Azure VMs](https://github.com/dlhouston/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dlhouston/azure-network-protocols)
+  - [User Password Lockout Configuration](https://github.com/dlhouston/configure-password-lockout)
 
 <h2>🤳Connect with me:</h2>
 
